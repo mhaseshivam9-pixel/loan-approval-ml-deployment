@@ -1,5 +1,6 @@
 fastapi
-pandas
-numpy
+uvicorn
 scikit-learn
 joblib
+numpy
+pandas
